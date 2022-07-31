@@ -23,3 +23,6 @@ Player
 	running & sprinting use stamina
 	Attacking & blocking uses more stamina
 	walking or resting restores stamina
+	
+	getting hit lowers our health
+	running out of health kills the player
