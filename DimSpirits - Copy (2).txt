@@ -1,0 +1,15 @@
+Dim Spirits
+
+Player
+	model
+		animation
+		rigging
+		textures
+		UV
+		particles
+	health
+	staminna
+	iframes
+	attack
+		backstab
+		hea
