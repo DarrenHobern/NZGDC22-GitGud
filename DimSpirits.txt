@@ -12,4 +12,4 @@ Player
 	iframes
 	attack
 		backstab
-		hea
+		heavy attack
