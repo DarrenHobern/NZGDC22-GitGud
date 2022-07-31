@@ -12,5 +12,6 @@ Player
 	iframes
 	attack
 		backstab
+		life steal
 		heart attack
 		kidney punch
