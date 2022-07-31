@@ -5,4 +5,9 @@ Player
 	animations
 	walk around
 	right bumper to attack
-	
+
+Bunny rabbit
+	Wander around
+	model
+	animations
+	attack the player if they get too close
