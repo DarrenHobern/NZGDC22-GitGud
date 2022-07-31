@@ -1,6 +1,6 @@
 Dim Spirits
 
-Water boss
+Fire boss
 	particles
 	texture
-	behaviour tree logic
+	Random Forest behaviour logic state graph thing
