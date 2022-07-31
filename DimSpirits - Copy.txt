@@ -12,4 +12,12 @@ Water Boss
 	attack timings
 	SFX
 	health
-	
+	Phase 1
+		Ice
+		Melee
+	Phase 2
+		Water
+		Mid range
+	Phase 3
+		Steam
+		Long range
