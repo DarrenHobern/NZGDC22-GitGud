@@ -19,3 +19,7 @@ Player
 		walk
 		run
 		sprint
+	
+	running & sprinting use stamina
+	Attacking & blocking uses more stamina
+	walking or resting restores stamina
