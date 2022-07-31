@@ -13,3 +13,9 @@ Player
 	attack
 		backstab
 		heavy attack
+		light attack
+	Movement
+		Dodge roll
+		walk
+		run
+		sprint
