@@ -4,3 +4,12 @@ Fire boss
 	particles
 	texture
 	Decision tree
+
+Water Boss
+	Model
+	behaviour statemachine
+	particles
+	attack timings
+	SFX
+	health
+	phase 2 at 2/3 health
