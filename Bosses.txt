@@ -1,0 +1,4 @@
+Fire Boss
+	Model
+	Animations
+	particles
