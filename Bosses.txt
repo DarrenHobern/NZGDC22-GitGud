@@ -2,3 +2,9 @@ Fire Boss
 	Model
 	Animations
 	particles
+	
+Water Boss
+	Underwater
+	oxygen
+	phase 2 at 2/3
+		steam monster
