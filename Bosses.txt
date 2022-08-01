@@ -6,5 +6,10 @@ Fire Boss
 Water Boss
 	Underwater
 	oxygen
+	phase 1 
+		ice mode
+		melee attack
+		freeze the player
 	phase 2 at 2/3
 		steam monster
+	
