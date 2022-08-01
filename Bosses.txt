@@ -8,5 +8,8 @@ Water Boss
 	oxygen
 	phase 1
 		lava
+		melee attack
+
 	phase 2 at 2/3
 		steam monster
+	
