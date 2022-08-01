@@ -2,3 +2,5 @@ Dim Spirits
 
 Player
 	walk around
+	attack on r1
+	jump on A
