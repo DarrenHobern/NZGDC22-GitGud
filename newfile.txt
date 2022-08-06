@@ -1,0 +1,7 @@
+Hello, this is a new file
+
+we're adding some features to our game:
+Player can walk around with wasd
+player can jump with A
+player attacks with right bumper
+
